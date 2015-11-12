@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="iso-8859-1"?><rss version="2.0">
+<channel>
+<title>La Pagina - Portada</title>
+<link>http://www.lapagina.com.sv</link>
+<description><![CDATA[El Valor de la Independencia]]></description>
+<language>es-ES</language>
+<pubDate>Thu, 12 Nov 2015 09:19:11 -0600</pubDate>
+<lastBuildDate>Thu, 12 Nov 2015 09:19:11 -0600</lastBuildDate>
+<ttl>10</ttl>
+<item>
+<title><![CDATA[Cristiano Ronaldo se regala un jet de 19 millones de euros]]></title>
+
+<link>http://www.lapagina.com.sv/deportes/111942/2015/11/12/Cristiano-Ronaldo-se-regala-un-jet-de-19-millones-de-euros</link>
+<author><![CDATA[Agencias <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111942</guid>
+<pubDate>Thu, 12 Nov 2015 09:08:41 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/YRFW_Q1JfamV0LmpwZw==.jpg"/><div><span style="font-family: Verdana;">Recientemente se conocieron varias fotos de la nueva y lujosa adquisición del delantero del Real Madrid, Cristiano Ronaldo, quien se autoregaló un jet con capacidad para 10 personas.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El periódico Mundo Deportivo destaca que la aeronave le costó al futbolista unos 19 millones de euros y al parecer será utilizado para cuestiones privadas a partir de esta semana.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El medio deportivo español destaca que el modelo de la nave es un Gulfstream G200 y está equipado con unos interiores extraordinariamente lujosos. Cuenta con baño, vestuario, acceso a internet, teléfono, fax, cocina equipada con todo tipo de lujos, lector de CD y DVD.}</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El primer vuelo del CR jet fue de Madrid a Londres para el estreno de la película sobre su vida. Cristiano Ronaldo es un enamorado de los coches de lujo y ahora quiere imponer una nueva tendencia entre los deportistas millonarios.</span></div>
+<div> </div>
+<div> <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x3dh2ea" allowfullscreen=""></iframe><br />
+<a href="http://www.dailymotion.com/video/x3dh2ea_cristiano-ronaldo-jet-aldi-cilgin-rakam_sport" target="_blank">Cristiano Ronaldo jet ald&#305;! Ç&#305;lg&#305;n rakam...</a> <i>por <a href="http://www.dailymotion.com/Sporx" target="_blank">Sporx</a></i></div>
+<div> </div>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Megaoperativo deja más de 40 delincuentes detenidos]]></title>
+
+<link>http://www.lapagina.com.sv/nacionales/111941/2015/11/12/Megaoperativo-deja-mas-de-40-delincuentes-detenidos</link>
+<author><![CDATA[Diana Arias <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111941</guid>
+<pubDate>Thu, 12 Nov 2015 08:47:23 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/STTL_Q1RubjQxMlVFQUE1ejFuLmpwZw==.jpg"/><p><span style="font-family: Verdana;">La Policía Nacional Civil (PNC) realizó un megaopearativo esta madrugada en el que logró la captura de más de 124 miembros de la pandilla 18 revolucionarios que operan en diferentes puntos del cantón Lourdes, en el municipio Colón, La Libertad. </span></p>
+<p><span style="font-family: Verdana;">Agentes polciales aseguran que el operativo se realizó con órdenes de capturas giradas por la Fiscalía General de la República (FGR) a sujetos a quienes se les atribuyen diversos delitos como homicidio, homicidio agravado, homicidio tentado, privación de libertad y agrupaciones ilícitas.</span></p>
+<p><span style="font-family: Verdana;">Entre los capturados ya hay alrededor de 47 que están formalmente detenidos y serán presentados esta mañana en la delegación policial del cantón Lourdes; mientras que otrs 77 aún están en la etapa de verificción de datos y se desconoce si quedarán arrestados.</span></p>
+<p><span style="font-family: Verdana;">"Se ha desarticulado esta estructura en la que hay desde colaboradores hasta autores</span><span style="font-family: Verdana;"><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG />
+</o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:HyphenationZone>21</w:HyphenationZone>
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>ES-SV</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:EnableOpenTypeKerning />
+<w:DontFlipMirrorIndents />
+<w:OverrideTableStyleHps />
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="--" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+LatentStyleCount="371">
+<w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 9" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 9" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footnote text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="header" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footer" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index heading" />
+<w:LsdException Locked="false" Priority="35" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="table of figures" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="envelope address" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="envelope return" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footnote reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="line number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="page number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="endnote reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="endnote text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="table of authorities" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="macro" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="toa heading" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 5" />
+<w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Closing" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Signature" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="true"
+UnhideWhenUsed="true" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Message Header" />
+<w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Salutation" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Date" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text First Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text First Indent 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Note Heading" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Block Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Hyperlink" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="FollowedHyperlink" />
+<w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Document Map" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Plain Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="E-mail Signature" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Top of Form" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Bottom of Form" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal (Web)" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Acronym" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Address" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Cite" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Code" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Definition" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Keyboard" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Preformatted" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Sample" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Typewriter" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Variable" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal Table" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation subject" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="No List" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Contemporary" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Elegant" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Professional" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Subtle 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Subtle 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Balloon Text" />
+<w:LsdException Locked="false" Priority="39" Name="Table Grid" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Theme" />
+<w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" SemiHidden="true" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" QFormat="true"
+Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" QFormat="true"
+Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" QFormat="true"
+Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" QFormat="true"
+Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" QFormat="true"
+Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" QFormat="true"
+Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" SemiHidden="true"
+UnhideWhenUsed="true" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="TOC Heading" />
+<w:LsdException Locked="false" Priority="41" Name="Plain Table 1" />
+<w:LsdException Locked="false" Priority="42" Name="Plain Table 2" />
+<w:LsdException Locked="false" Priority="43" Name="Plain Table 3" />
+<w:LsdException Locked="false" Priority="44" Name="Plain Table 4" />
+<w:LsdException Locked="false" Priority="45" Name="Plain Table 5" />
+<w:LsdException Locked="false" Priority="40" Name="Grid Table Light" />
+<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark" />
+<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful" />
+<w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 1" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1" />
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 2" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2" />
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 3" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3" />
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 4" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4" />
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 5" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5" />
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 6" />
+<w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6" />
+<w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6" />
+<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6" />
+<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6" />
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="46" Name="List Table 1 Light" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark" />
+<w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful" />
+<w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 1" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1" />
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 2" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2" />
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 3" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3" />
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 4" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4" />
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 5" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5" />
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 6" />
+<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6" />
+<w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6" />
+<w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6" />
+<w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6" />
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 6" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Tabla normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin-top:0cm;
+mso-para-margin-right:0cm;
+mso-para-margin-bottom:8.0pt;
+mso-para-margin-left:0cm;
+line-height:107%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-fareast-language:EN-US;}
+</style>
+<![endif]--> intelectuales y materiales de diversos delitos", indicó el oficial de servicio de la zona.</span></p>
+<p><span style="font-family: Verdana;">Según las autoridades, algunos de los delincuentes capturados habrían participado en crímenes contra policías y familiares de estos en Colón. </span></p>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Asesinan a directivo comunal de Ciudad Arce]]></title>
+
+<link>http://www.lapagina.com.sv/nacionales/111939/2015/11/12/Asesinan-a-directivo-comunal-de-Ciudad-Arce</link>
+<author><![CDATA[Redacción Diario La Página <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111939</guid>
+<pubDate>Thu, 12 Nov 2015 08:16:00 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/NKPF_VmlvbGVuY2lhX2hveS5qcGc=.jpg"/><p><strong><span style="font-family: Verdana;">(6:00 a.m.)</span></strong><span style="font-family: Verdana;"> Un directivo de una Asociación de Desarrollo Comunitario (Adesco) de Ciudad Arce fue asesinado esta mañana con arma de fuego.<br type="_moz" />
+</span></p>
+<p><span style="font-family: Verdana;">De acuerdo al reporte policial se trata de Jaime Leonel Herrera Macall, de 65 años, quien era miembro de la Adesco del cantón La Reforma de Ciudad Arce, La Libertad.</span></p>
+<p><span style="font-family: Verdana;">El homicidio ocurrió cuando Herrera Macall se conducía en una mototaxi.<br type="_moz" />
+</span></p>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Roberto d´Aubuisson: Todos los bares de El Cafetalón son ilegales ]]></title>
+
+<link>http://www.lapagina.com.sv/nacionales/111938/2015/11/12/Roberto-d´Aubuisson-Todos-los-bares-de-El-Cafetalon-son-ilegales-</link>
+<author><![CDATA[Israel Serrano <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111938</guid>
+<pubDate>Thu, 12 Nov 2015 08:01:07 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="Foto: TVO" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/VIIN_ZGFidWlzc29uLmpwZw==.jpg"/><p><span style="font-family: Verdana;"><span style="display: none;" id="1447338826104S"> </span></span><span style="font-family: Verdana;">El alcalde de Santa Tecla, Roberto d´Aubuisson, aseguró este jueves que todos los bares ubicados en el parque El Cafetalón son ilegales, ya que violan la ley al vender bebidas alcohólicas en espacios públicos.</span></p>
+<p><span style="font-family: Verdana;">La semana pasada, propietarios de los locales denunciaron un supuesto acoso por parte de la comuna tecleña, quienes envían a miembros del Cuerpo Agentes Metropolitanos (CAM) a imponer multas ante supuestas irregularidades.</span></p>
+<p><span style="font-family: Verdana;">El edil aseguró que la administración del FMLN violó la ley reguladora de la producción y comercialización de alcohol y las bebidas alcohólicas al permitir que bares se instalaran en los alrededores del principal parque recreativo de la ciudad.</span></p>
+<p><span style="font-family: Verdana;">&ldquo;La ley es bien clara y dice que en espacios públicos está prohibido, no se puede dar ni vender ni consumir bebidas alcohólicas a menos de 100 metros de un centro escolar, iglesias y en espacios públicos como parques y El Cafetalón es un parque&rdquo;, dijo el Edil en la entrevista de TVO.</span></p>
+<p><span style="font-family: Verdana;">&ldquo;No se le puede dar permiso de venta de bebidas alcohólicas, no se puede permitir que consuman allá adentro (del parque). Además están inscritos como chalets, y el chalet tiene en una ordenanza como  máximo de 50 metros cuadrados de construcción, pero estos tienen más de 300 o 400 en inmuebles del municipio, no tiene propiedad del lugar&rdquo;, reiteró sobre las supuestas irregularidades con que se instalaron los bares en la zona.</span></p>
+<p><span style="font-family: Verdana;">El alcalde tricolor confirmó que miembros del CAM acuden &ldquo;todos los días&rdquo; a dichos establecimiento para regular el sonido de la música e imponen multas por incumplimientos, pero insistió que solo están atendiendo el llamado de los vecinos de la zona, quienes se han quejado por el desorden generados por dichos negocios.</span></p>
+<p><span style="font-family: Verdana;">&ldquo;Ellos siguen y persisten en no ordenarse. Todos los días se va haciendo un expediente y una esquela y cuando van a cumplir la renovación de permiso no cumplen los requisitos&rdquo;, dijo el alcalde de Santa Tecla.</span></p>
+<p><span style="font-family: Verdana;">&ldquo;Por donde lo veas están ilegales, están de forma irregular&hellip; tiene el gran desorden, tiene intranquilos a los vecinos, incumplen las reglas de convivencia. No conformes con que están irregulares tienen ruido estridente de lunes a lunes y dañan a los vecinos, eso no puede ser, en ninguna parte del mundo&rdquo;, puntualizó.</span></p>
+<p><span style="font-family: Verdana;"><strong>Que busquen otros rubros</strong></span></p>
+<p><span style="font-family: Verdana;">D´Aubuisson recordó que la ley no permite entregar permisos de funcionamiento para los bares ubicados en El Cafetalón, por lo que les recomendó a los empresarios buscar otro tipo de negocio como gimnasios o ventas de suplementos nutritivos.</span></p>
+<p><span style="font-family: Verdana;">&ldquo;Que se reconviertan si no quieren perder la inversión, nosotros estamos abiertos a eso, pero bajo las condiciones que la ley manda y que sean de beneficio al municipio. Que se vayan a alquilar una casa en el paseo El Carmen, pero que no me vayan a distorsionar el Paseo El Carmen tampoco&rdquo;, finalizó D´Aubuisson.</span><span style="font-family: Verdana;"> </span></p>
+<p> </p>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Diamante azul subastado a precio récord: 48 millones de dólares ]]></title>
+
+<link>http://www.lapagina.com.sv/internacionales/111937/2015/11/11/Diamante-azul-subastado-a-precio-record-48-millones-de-dolares-</link>
+<author><![CDATA[DPA <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111937</guid>
+<pubDate>Wed, 11 Nov 2015 23:00:00 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/GYVB_Ymx1ZS1kaWFtb25kLWhlcm8xLmpwZy53ZWJyZW5k.jpeg"/><div><span style="font-family: Verdana;">Un diamante azul fue subastado hoy a un precio récord de 48.6 millones de francos suizos (48.4 millones de dólares) en Ginebra, informó la casa de subastas Sotheby's en Twitter.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El "Blue Moon", de 12.03 quilates, era el ítem principal de la subasta de joyas de este año de Sotheby's. El nuevo dueño del diamante es un coleccionista privado de Hong Kong.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El diamante fue subastado por debajo del precio máximo estimado, pero según Sotheby's fue el mayor precio que se pagó por quilate por una joya de este tipo. El ingreso neto, sin la comisión de la casa de subastas, fue de 43.2 millones de francos.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">La joya fue obtenida de un diamante bruto de 29.62 quilates hallado en enero de 2014 en una mina de Sudáfrica. La piedra fue trabajada y pulida durante seis meses en Nueva York.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El color del "Blue Moon", descrito como "Fancy Vivid Blue", es considerado uno de los más demandados y extraños dentro de los diamantes azules. Según Sotheby's, la gema es la más grande que se haya vendido con este color y la de mayor pureza.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div> </div>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Esquiador sobrevive tras caer de una montaña a una altura de 500 metros]]></title>
+
+<link>http://www.lapagina.com.sv/internacionales/111936/2015/11/11/Esquiador-sobrevive-tras-caer-de-una-montana-a-una-altura-de-500-metros</link>
+<author><![CDATA[Agencias <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111936</guid>
+<pubDate>Wed, 11 Nov 2015 23:00:00 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/WJEU_TW9udGFuYS1BbGFza2EuanBn.jpg"/><div><iframe width="560" height="315" src="https://www.youtube.com/embed/MvQxVE32BQo" frameborder="0" allowfullscreen=""></iframe></div>
+<div> </div>
+<div> </div>
+<div><span style="font-family: Verdana;">Un esquiador profesional sobrevivió tras caer desde una altura de 500 metros en las montañas de Neacola, Alaska.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">El atleta, identificado como Ian McIntosh, se encontraba grabando imágenes para la película "Paradise waits", cuyo estreno está previsto para el próximo año y que trata sobre deportes extremos.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">McIntosh perdió un esquí en una pendiente, tras lo cual comenzó a dar vueltas cuesta abajo sin parar.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Afortunadamente, el deportista llevaba indumentaria equipada para incidentes como éste, por lo que tiró de su <em>airbag</em> y se dejó llevar por la pendiente.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Asimismo llevaba un micrófono y una cámara, las cuales captaron toda la caída al final de la cual se le escucha decir "I'm okay!" (estoy bien!).</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div> </div>
+<p> </p>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Presidente pide a Consejo de Seguridad celeridad para la ejecución de proyectos]]></title>
+
+<link>http://www.lapagina.com.sv/nacionales/111935/2015/11/11/Presidente-pide-a-Consejo-de-Seguridad-celeridad-para-la-ejecucion-de-proyectos</link>
+<author><![CDATA[Diana Arias <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111935</guid>
+<pubDate>Wed, 11 Nov 2015 23:00:00 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="Diana Arias" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/NIPS_c2FuY2hlei5qcGc=.jpg"/><div><span style="font-family: Verdana;">El presidente de la República, Salvador Sánchez Cerén, pidió al Consejo Nacional de Seguridad Ciudadana y Convivencia (CNSCC), que acelere los procesos de ejecución de los proyectos que conforman el plan El Salvador Seguro y destacó que se trata de "un compromiso que se tiene con el país". </span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">"Necesitamos que la población sea testigo de la ejecución de los recursos y que perciban una mejoría de la situación de Seguridad en el país", enfatizó el mandatario la tarde de este miércoles durante la tercera reunión del CNSCC.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Dicha reunión tiene como objetivo establecer las acciones concretas que se ejecutarán en los diez municipios que el Consejo señaló como prioritarios debido a la alta incidencia delincuencial. </span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Asimismo reconoció que se necesitan aproximadamente $2,100 millones, los cuales servirán para ejecutar los proyectos del Plan en un período de cinco años. Dichos fondos se obtendrán de diversas fuentes de financiamiento.</span></div>
+<div><span style="font-family: Verdana;"> </span></div>
+<div><span style="font-family: Verdana;">El mandatario agregó que El Banco Interamericano de Desarrollo (BID) aprobó un préstamo por $45 millones hace dos días, los cuales serán destinados al financiamiento de proyectos de prevención que se ejecutarán en los municipios de San Salvador, Mejicanos, Ciudad Delgado, Cuscatancingo, Apopa y Soyapango.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Durante la reunión, el presidente dio a conocer que se ha aprobado otro préstamo por $71 millones provenientes del Banco Centroamericano de Integración Económica (BCIE), los cuales serán utilizados para la modernización del sistema carcelario.</span></div>
+<div><span style="font-family: Verdana;"> </span></div>
+<div><span style="font-family: Verdana;">De igual manera informó que ya se inició la licitación para la mejora de la infraestructura del penal de Izalco y el sistema de brazaletes y anunció que para el 2016 se adjudicarán otros $16 millones. </span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><strong><span style="font-family: Verdana;">La incidencia criminal en noviembre ha disminuido</span></strong></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Por su parte, el subdirector de la Policía Nacional Civil (PNC), Howard Cotto, confirmó que existe una baja considerable en el número de homicidios en lo que va de noviembre. "El martes se registraron 15 homicidios pero hemos tenido días con 7, 10 y 11, lo que significa una baja con relación a la incidencia criminal que se reportó desde el mes de mayo", explicó. </span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Cotto manejó el tema con cautela y no mencionó de forma específica a qué se debe la reducción de crímenes, ya que -según hizo ver- la reducción no se puede medir por una sola variable. "Si eso fuera así la solución de los problemas de violencia y delincuencia serían relativamente fáciles de resolver. Es en ese sentido que se evidencia que son diversos factores los que influyen y que se deben analizar", explicó. </span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Sin embargo destacó que la operatividad policial continúa sus acciones de represión frente al problema delincuencial; prueba de ello son los 420 enfrentamientos armados que los agentes policiales han realizado.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">En lo que va del año han muerto 200 personas en estos enfrentamientos y 200 han resultado heridas. "Los grupos criminales han perdido una cantidad considerable de elementos. Nosotros no quisiéramos que esto fuera así, pero los agentes policiales están en condición de repeler estos ataques", puntualizó el funcionario.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div> </div>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Reynaldo Cardoza: Los pícaros deben terminar en la cárcel y si ese es mi caso, Dios lo sabrá]]></title>
+
+<link>http://www.lapagina.com.sv/nacionales/111934/2015/11/11/Reynaldo-Cardoza-Los-picaros-deben-terminar-en-la-carcel-y-si-ese-es-mi-caso-Dios-lo-sabra</link>
+<author><![CDATA[Karla Espinoza <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111934</guid>
+<pubDate>Wed, 11 Nov 2015 23:00:00 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/GAAL_MTA2MDgyOTJfNjM4Mzg4NjkyOTQxNDQyXzYwMzE5.jpg"/><p><span style="font-family: Verdana;">Para el diputado Reynaldo Cardoza, quien según Probidad no ha podido justificar parte de su fortuna personal, todo será aclarado en torno al caso, y alega que las acusaciones se deben a que él mismo llenó mal la declaración de Hacienda &ldquo;por falta de experiencia&rdquo;.</span><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">Cardoza se encuentra por segunda ocasión en un mal momento de su carrera política, al haber encontrado indicios la Fiscalía de un posible enriquecimiento ilícito, pero dice que hasta el momento no ha tenido la oportunidad de defenderse, y que pronto lo hará presentando las pruebas necesarias que respaldan sus propiedades.</font><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">El legislador justificó haber cometido errores en la declaración de impuestos ante el Ministerio de Hacienda en sus inicios como legislador, pero hace ver que se debió a que no contaba con la experiencia en llenar dichos formularios.</font></p>
+<p><strong><font face="Verdana">La Fiscalía ha solicitado a la Cámara que se le inhabilite de sus cargos en la Asamblea Legislativa ¿Qué opina al respecto?</font></strong></p>
+<p><font face="Verdana">Yo no me he defendido aún y todavía no se me ha dado la oportunidad de presentar las pruebas (que respalden su fortuna). La Fiscalía tiene razón cuando dice que si una persona anda de pícara y robando dineros del Estado, entonces que acabe presa y, si ese es mi caso, pues Dios lo sabrá. Yo tengo todas las pruebas necesarias y vengo trabajando desde años. Tengo todas las pruebas para desvirtuar las acusaciones en la Cámara.</font></p>
+<p><strong><font face="Verdana">¿Cometió errores en la declaración?</font></strong></p>
+<p><font face="Verdana">Cuando empecé en la Asamblea Legislativa fui bien inocente, incluso ni conocía el edificio donde está. Yo cometí errores desde que llené la declaración de 2009; las llené mal. Antes tenía un negocio que me dejaba hasta $60 mil al año y no lo declaré.</font></p>
+<p><strong><font face="Verdana">¿Cuál de todos sus negocios? </font></strong></p>
+<p><font face="Verdana">El Parque Acuático El Palacio Latino, era mío, bueno, sigue siendo mío, ahora los mareros me lo han desmantelado.</font></p>
+<p><strong><font face="Verdana">Diputados decían que si la FGR ha solicitado su inhabilitación es porque tienen pruebas que constatan delitos por los que se le acusa ¿Qué piensa de ello?</font></strong><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">Las pruebas que pueden tener son los errores que cometí. Obviamente si se cometió un error hay que subsanarlo y eso es lo que vamos a tratar de hacer.</font></p>
+<p><strong><font face="Verdana">¿Ya le notificaron?</font></strong><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">A mí no me han notificado oficialmente; estoy esperando la notificación a más tardar este viernes, ojalá así sea para comenzar a defenderme. Me han atacado por todos lados, pero no me han dado la oportunidad de defenderme. Algunos magistrados dijeron que me han mandado muchas veces la notificación para solventar, pero no es cierto. Yo le digo que vamos a salir adelante.</font><font face="Verdana"> </font></p>
+<p><strong><font face="Verdana">También se le cuestiona por una cantidad de viajes al exterior ¿qué explicación tiene? </font></strong><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">Sobre eso no quiero opinar porque nosotros sabemos cómo nos vamos a defender. En ese mismo tema creo que no hay que ser ignorantes para poder echar deber de lo que sucede. Ahí está el doctor Pineda (Óscar Armando Pineda Navas, actual presidente de la Corte Suprema de Justicia) quien estuvo en esta Asamblea como gerente legislativo por muchos años y él sabe cuáles son los viajes que yo hice.</font><font face="Verdana"> </font></p>
+<p><strong><font face="Verdana">Usted una vez cuestionó el porqué de la acusación hacia su persona y no hacia otras personas que a su juicio sí han cometido delito.</font></strong><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">Dios sabe por qué. </font></p>
+<p><strong><font face="Verdana">¿O cree que alguien lo están inculpando con algún interés en particular?</font></strong><font face="Verdana"><br />
+</font></p>
+<p><font face="Verdana">Sobre eso hay que hacerse la pregunta. </font></p>
+<p><font face="Verdana"> </font></p>
+<p> </p>]]></description>
+
+</item>
+<item>
+<title><![CDATA[Arrestan a dos familiares de Maduro por tráfico de drogas]]></title>
+
+<link>http://www.lapagina.com.sv/internacionales/111932/2015/11/11/Arrestan-a-dos-familiares-de-Maduro-por-trafico-de-drogas</link>
+<author><![CDATA[DPA <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111932</guid>
+<pubDate>Wed, 11 Nov 2015 17:27:28 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/MDVQ_ZGVhLmpwZw==.jpg"/><div><span style="font-family: Verdana;">Estados Unidos arrestó en Haití a dos familiares del presidente de Venezuela, Nicolás Maduro, por un presunto delito de tráfico de drogas, informan hoy medios locales.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Efraín Antonio Campo Flores y Francisco Flores de Freitas fueron arrestados el martes en Puerto Príncipe acusados de conspirar para transportar 800 kilos de cocaína a Estados Unidos, informó el diario estadounidense "The Wall Street Journal" (WSJ).</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">La Agencia Antidroga de Estados Unidos (DEA, por sus siglas en inglés) no respondió de momento a las peticiones de la agencia dpa para confirmar oficialmente la detención.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Según "WSJ", el mismo martes los detenidos fueron trasladados por la DEA hasta Nueva York, donde el jueves comparecerán ante un juez.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Los dos hombres son sobrinos de la mujer de Maduro, Cilia Flores. Campo Flores, de 29 años, se identificó ante la DEA como hijastro de Maduro, ya que fue criado por la esposa del presidente tras la muerte de su madre.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">La mujer de Maduro, de 62 años, fue presidenta de la Asamblea Nacional y abogada del ex presidente Hugo Chávez.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Estados Unidos ha investigado anteriormente a altos rangos de la Policía, el Ejército y el Gobierno de Venezuela en relación a presuntos delitos de tráfico de drogas, pero nunca había llegado a personas tan cercanas a Maduro, lo que podría tensar aún más las relaciones entre ambos países.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Washington considera a Venezuela como el principal lugar de tránsito de la droga a Estados Unidos desde la vecina Colombia. Caracas considera injustificadas las acusaciones, que cree que obedecen a intentos de desestabilizar a su gobierno.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Según "WSJ", los dos arrestados contactaron a un informante de la DEA para que les ayudara a traficar 800 kilos de cocaína. Las siguientes reuniones fueron filmadas y grabadas por los agentes estadounidenses.</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;">Los arrestos llegan poco antes de las importantes elecciones legislativas en Venezuela el 6 de diciembre. En los comicios, en los que el oficialismo parte en desventaja en las encuestas por primera vez en 16 años, se renovarán los 167 escaños de la Asamblea Nacional. </span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div><span style="font-family: Verdana;"><br />
+</span></div>
+<div> </div>]]></description>
+
+</item>
+<item>
+<title><![CDATA[FMLN se queda sin respaldo para aprobar declaración patrimonial]]></title>
+
+<link>http://www.lapagina.com.sv/nacionales/111931/2015/11/11/FMLN-se-queda-sin-respaldo-para-aprobar-declaracion-patrimonial</link>
+<author><![CDATA[Teresa Andrade <info@lapagina.com >]]></author>
+<guid isPermaLink="true">http://www.lapagina.com.sv/ampliar.php?id=111931</guid>
+<pubDate>Wed, 11 Nov 2015 23:00:00 -0600</pubDate>
+<description><![CDATA[<img align="right" hspace="10" alt="" src="http://www.lapagina.com.sv/mn/userfiles/antiguas/FXDT_MTIyNDAyNTFfMTAxNTMwNTI5MTA1NTE2NjZfODI0.jpg"/><p><span style="font-family: Verdana;">La plenaria pasada, ARENA y FMLN tuvieron reuniones bilaterales donde acordaron que aprobarían la declaración patrimonial obligatoria. La reforma estuvo a minutos de ser aprobada en el pleno. No obstante, ARENA no estaba de acuerdo con el techo propuesto por el FMLN y pedían que la obligatoriedad fuera para los que tuvieran un patrimonio arriba de $300,000 y pidieron una semana para afinar los detalles. </span></p>
+<p><span style="font-family: Verdana;">Sin embargo, este miércoles, previo a la reunión de la fracción tricolor, la subjefa de fracción de ARENA y secretaria de la comisión de hacienda de la Asamblea Legislativa, Milena Calderón, confirmó a Diario La Página que retiraron su apoyo a esta moción y sentenció no darán los votos para aprobar la declaración patrimonial. </span></p>
+<p><span style="font-family: Verdana;">&ldquo;Nosotros ya dijimos que no vamos a contribuir con nuestros votos porque ellos decían al principio que el decreto iba a ser especialmente para evitar la evasión, la elusión y el narcotráfico; pero luego hay declaraciones de parte de Lorena Peña que dice que eso va a servir para el impuesto patrimonial. Nosotros ya hemos dicho: ¡no más impuestos!&rdquo;, enfatizó la legisladora.  </span></p>
+<p><span style="font-family: Verdana;">En este sentido, el secretario general del FMLN, Medardo González, también apuntó en esta tónica de buscar el impuesto predial en el programa de entrevista Debate con Nacho del martes pasado. &ldquo;También el impuesto predial es otra opción pendiente", dijo el también diputado en el programa. </span></p>
+<p><span style="font-family: Verdana;">Para Calderón, con estas declaraciones por parte del los líderes de izquierda "se rompió el acuerdo" al asegurar que están buscando más impuestos. &ldquo;Ante eso no acompañamos porque no se va a usar para que contribuya a evitar la evasión y la elusión sino para tener los datos y poner el impuesto patrimonial que nos parece que sería un golpe de gracia en esto momento para el país poner todavía otro impuesto más&rdquo;, subrayó. </span></p>
+<p><span style="font-family: Verdana;">Agregó que el FMLN ya había prometido, en esa negociación del jueves pasado, no aprobar más impuestos. &ldquo;No son serios en lo que exponen cuando hay una negociación y además no es posible que un partido político venga y diga que va a empezar una guerra a la empresa privada dando más inseguridad al país y la oportunidad que en El Salvador no venga más inversión&rdquo;, señaló. </span></p>
+<p><strong><span style="font-family: Verdana;">GANA mantiene postura de no apoyar</span></strong></p>
+<p><span style="font-family: Verdana;">El vicepresidente de la Asamblea y diputado de GANA, Guillermo Gallegos, reiteró su postura de que no apoyarán una decisión de revivir la declaración patrimonial obligatoria. Explicó que el partido ya dio su contribución a las tareas de seguridad y combate al crimen y al gobierno con la aprobación de los dos nuevos impuestos: el de consumo a telecomunicaciones y el de gravar al gran capital. </span></p>
+<p><span style="font-family: Verdana;">&ldquo;Nuestra contribución es apoyar al país y al gobierno con $160 millones anuales, ya otro esfuerzo de esa índole pues GANA ya no está en esa disponibilidad. La declaración patrimonial nosotros no la vamos a poyar&rdquo;, sentenció el legislador.</span></p>
+<p><span style="font-family: Verdana;">Asimismo destacó que le extrañó mucho que ARENA estuviera a punto de dar sus votos para aprobar esta medida. No obstante resaltó como positivo que ellos hayan reconsiderado su posición. </span></p>
+<p><span style="font-family: Verdana;">Sostuvo que aunque la presidenta, Lorena Peña, había reiterado que no buscaban aplicar impuestos con esta medida, sino más bien cerrar los portillos a la evasión y a la elusión, no está seguro que este haya sido el verdadero fin. &ldquo;Yo pienso que era la puerta para posteriormente poder crear el impuesto predial. Creo yo que ese es el motivo principal, pero con GANA no van a contar con los votos&rdquo;, enfatizó.</span></p>
+<p><span style="font-family: Verdana;">Con esta postura, prácticamente el FMLN se estaría quedando solo en la búsqueda de aprobar esta propuesta, ya que el PCN también había cerrado las posibilidades de apoyar esta moción. ARENA había abierto una posibilidad real de aprobación. No obstante, con la caída del acuerdo se descarta que se apruebe la medida. </span></p>
+<p><span style="font-family: Verdana;">El FMLN había presentado esta propuesta el pasado mes de octubre y busca reformar el artículo 91 del Código Tributario que establecería que &ldquo;las personas naturales sujetas a los tributos internos deberán elaborar una declaración del estado patrimonial, la cual deberá presentarse anexa a la declaración del Impuesto sobre la Renta&rdquo;. Además señalaba que esto sería de carácter obligatorio para quienes tengan rentas iguales o mayores a $100,000.</span></p>
+<div> </div>]]></description>
+
+</item></channel></rss>

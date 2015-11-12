@@ -1,0 +1,214 @@
+h5 {
+	font-size: 48px;
+	color: #8e151f;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+}
+.bajada_nota {
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 14px;
+	padding-top: 0px;
+}
+.texto_nota {
+	font-size: 14px;
+}
+.fecha_nota {
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.autor_nota {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #8d151e;
+}
+.ruta_nota {
+	font-size: 10px;
+	background-image: url(../images/iconos/nota_relacionada_blanco.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 20px;
+	padding-top: 2px;
+	text-transform: uppercase;
+}
+.boton_volverSeccion {
+	color: #8E151F;
+	font-weight: bold;
+}
+.boton_volverSeccion a:link {
+	color: #8E151F;
+}
+.boton_volverSeccion a:visited {
+	color: #8E151F;
+}
+.boton_volverSeccion a:hover {
+	color: #8E151F;
+}
+.boton_volverSeccion a:active {
+	color: #8E151F;
+}
+.tamanio_letra {
+	font-size: 10px;
+	padding-top: 2px;
+	text-transform: uppercase;
+	text-align: right;
+	font-weight: bold;
+}
+.img_marco_notaAmpliada {
+	padding: 1px;
+	border: 1px solid #E1E0E0;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+.etapas {
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #999999;
+	padding-top: 10px;
+}
+.etapas .boton_verNotaRelacionada {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	background-image: url(../images/iconos/nota_relacionada_blanco.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 20px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	margin-bottom: 8px;
+}
+.archivos_adjuntos {
+	font-size: 12px;
+	font-style: italic;
+}
+.etapas .titulos {
+	font-weight: bold;
+	color: #8E151F;
+}
+.etapas .boton_enviarAmigo {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	background-image: url(../images/iconos/enviar_amigo.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 20px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	margin-bottom: 8px;
+}
+.etapas .boton_imprimir {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	background-image: url(../images/iconos/imprimir.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 20px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	margin-bottom: 8px;
+}
+.etapas .boton_compartir {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	background-image: url(../images/iconos/compartir.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 20px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	margin-bottom: 8px;
+}
+.titulo_comentarios {
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #8e151f;
+	background-image: url(../images/iconos/comentarios_gris.gif);
+	background-repeat: no-repeat;
+	background-position: 604px center;
+	padding: 12px;
+	background-color: #E7E7E7;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+	border-top-color: #999999;
+	border-bottom-color: #999999;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.campo_form {
+	width: 524px;
+	height: 18px;
+	border: 1px solid #999999;
+	font-size: 12px;
+	font-style: italic;
+	color: #666666;
+}
+.campo_form_multilinea {
+	width: 524px;
+	height: 180px;
+	border: 1px solid #999999;
+	margin-top: 5px;
+	font-size: 12px;
+	font-style: italic;
+	color: #666666;
+}
+.form_botonEnviar {
+	font-size: 12px;
+	font-weight: bold;
+	color: #8E151F;
+	background-image: url(../images/iconos/comentarios_blanco.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+	text-align: right;
+	padding-right: 20px;
+}
+.form_botonEnviar a:link {
+	color: #8E151F;
+}
+.form_botonEnviar a:visited {
+	color: #8E151F;
+}
+.form_botonEnviar a:hover {
+	color: #8E151F;
+}
+.form_botonEnviar a:active {
+	color: #8E151F;
+}
+.campo_form_largo {
+	width: 856px;
+	height: 18px;
+	border: 1px solid #999999;
+	font-size: 12px;
+	font-style: italic;
+	color: #666666;
+}
+.form_botonRegistrarme {
+	font-size: 12px;
+	font-weight: bold;
+	color: #8E151F;
+	background-image: url(../images/iconos/registro.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+	text-align: right;
+	padding-right: 20px;
+}
+.form_botonRegistrarme a:link {
+	color: #8E151F;
+}
+.form_botonRegistrarme a:visited {
+	color: #8E151F;
+}
+.form_botonRegistrarme a:hover {
+	color: #8E151F;
+}
+.form_botonRegistrarme a:active {
+	color: #8E151F;
+}
